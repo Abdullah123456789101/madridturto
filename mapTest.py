@@ -5,7 +5,7 @@ longboi = pd.read_csv("LongBoi.csv")
 map = F.Map(location=(53.08, 8.8), zoom_start=12)
 
 F.Marker((53.08, 8.8), popup='Binaur').add_to(map)
-F.Marker((56.15636128169986, 10.18786533164987), popup='Aarhus gymnasium c').add_to(map)
+F.Marker((40.414291633123966, -3.70384559016725), popup='Mola Hostel').add_to(map)
 F.Marker((2.0729226546484942, 45.333782685774594), popup='Mogadishu').add_to(map)
 
 F.PolyLine(locations=[(56.156373232084015, 10.187715127955723), (2.0729226546484942, 45.333782685774594)], color='blue').add_to(map)
