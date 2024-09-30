@@ -1,9 +1,2 @@
-Hey. Clone this. Make some points on a map.
-
-Make some lines on the map.
-
-Try to plot data from longboi.csv to map.
-
-???
-
-profit
+Dette stykke kode, viser vores tur i madrid. 
+Og highlighter vigtige steder vi har været til.
