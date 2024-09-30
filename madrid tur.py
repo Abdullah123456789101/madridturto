@@ -15,4 +15,4 @@ folium.Choropleth(
     line_opacity = 1
 ).add_to(map)
 folium.Marker((40.414291633123966, -3.70384559016725), popup='Mola Hostel').add_to(map)
-map.show_in_browser(
+map.show_in_browser()
