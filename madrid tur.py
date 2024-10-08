@@ -1,7 +1,7 @@
 import json
 #import Tkinter
 import folium
-map = folium.Map(location=(53.08, 8.8), zoom_start=12)
+map = folium.Map(location=(40.414291633123966, -3.70384559016725), zoom_start=16)
 #root=Tkinter.Tk()
 #width=root.winfo_screenwidth()
 #height=root.winfo_screenheight()
